@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel/Splash",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "",
+        "Name": "creativity"
+      }
+    ],
+    "Category": "",
+    "Description": "BeautifulTreeAnimation for Plasma KDE",
+    "Id": "BeautifulTreeAnimation",
+    "License": "LGPLv3",
+    "Name": "Beautiful Tree Animation",
+    "Version": "2.0",
+    "Website": ""
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2"
+}
